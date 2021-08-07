@@ -12,12 +12,12 @@ MAX_WORKERS = 10 # max threads at a time
 gainRatio = 1.5 # takeProfit = -stopLoss*gainRatio
 stopLossMargin = 0.05 # extra margin for the stop loss
 
-operEquity = 10000 # defines the target amount per execution ($)
+operEquity = 100000 # defines the target amount per execution ($)
 limitOrderMargin = 0.1 # percentage that defines the offset for the limit orders
 
 # YOUR API KEYS AT ALPACA GO HERE!
-API_KEY = ""
-API_SECRET_KEY = ""
+API_KEY = "AKI9SZSKJFJZ6235YEHT"
+API_SECRET_KEY = "C0axOxc3ccitmAOZrUJpot9dNmrFUBbudUcT8iGn"
 ALPACA_API_URL = "https://paper-api.alpaca.markets"
 
 # this block checks whether you have your keys written or not
